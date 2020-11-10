@@ -1,0 +1,7 @@
+0
+Flauto Nuvola
+Questo flauto se usato ti teletrasporta nella stanza finale dove dovrai affrontare un nemico molto forte
+true
+true
+bisogna suonarlo per utilizzarlo(premere usa)
+2

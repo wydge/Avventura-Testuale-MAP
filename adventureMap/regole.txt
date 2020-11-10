@@ -1,0 +1,9 @@
+Benvenuti su Clima's Dungeon, lo scopo del gioco e' arrivare nella stanza finale nella quale bisognera' battere la sfinge.
+Per arrivare nella stanza finale bisogna trovare un oggetto nascosto all'interno delle stanze di gioco, ogni stanza e' a tema climatico.
+L'avventura testuale funziona in questa maniera:
+N S E O sono rispettivamente i movimenti NORD SUD EST OVEST
+Prendi serve per inserire nell'Inventario l'oggetto rilevato
+Usa per usare l'oggetto, prima di premere usa bisogna scrivere sull'apposita riga l'indice dell'oggetto ottenuto da utilizzare
+Inventario per leggere cosa si ha nello zaino
+Help per piccoli aiuti per finire il gioco
+Salva per salvare il gioco, per ripartire dal salvataggio bastera' andare alla sezione Salvataggi e scegliere il salvataggio.
